@@ -1,0 +1,108 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userprefs
+*.pdb
+*.obj
+*.exe
+*.dll
+*.ilk
+*.aps
+*.bsc
+*.map
+*.ncb
+*.sbr
+*.res
+*.pch
+*.ipch
+*.tlog
+*.psess
+*.vsp
+*.vspx
+*.trx
+*.vsix
+*.webtest
+*.testsettings
+*.csproj.user
+*.vbproj.user
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+[Aa]rm/
+[Aa]rm64/
+[Xx]64/
+[Xx]86/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+
+# Packages
+packages/
+*.nupkg
+*.snupkg
+*.vsix
+
+# NuGet
+.nuget/NuGetScratch/
+.nuget/*.cache
+!*.nuspec # Keep nuspec files
+
+# Resharper
+*.DotSettings
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# Editorconfig
+.editorconfig
+
+# VSTS
+*.vssscc
+*.vspscc
+*.vsi
+
+# Custom
+_ReSharper.*/
+*.[Cc]ache
+*.orig
+*.bak
+*.scc
+*.rptproj.user
+*.rdl.data
+*.rptproj.webinfo
+*.pubxml
+*.publishproj
+*.log
+*.sql
+*.docstates
+
+# Local History for Visual Studio (optional - can be large)
+.localhistory/
+
+# User-specific files for IIS Express
+*.user.config
+*.vstemplate
+
+# Source Link
+*.sourcelink
+
+# Node.js (if you use it for frontend assets)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Git metadata
+.gitattributes
+.gitmodules
+
+# Temporary files
+*.~
+*.tmp
+
+# SQL Server Management Studio (if used for local DB)
+*.mdf
+*.ldf

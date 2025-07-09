@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Dev\\VB\\WebAppVB_Tests\\WebAppVB_Tests.vbproj": {}
+  },
+  "projects": {
+    "C:\\Dev\\VB\\WebAppVB\\WebFormsAlgorithms.vbproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\VB\\WebAppVB\\WebFormsAlgorithms.vbproj",
+        "projectName": "WebFormsAlgorithms",
+        "projectPath": "C:\\Dev\\VB\\WebAppVB\\WebFormsAlgorithms.vbproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net481": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net481": {}
+      }
+    },
+    "C:\\Dev\\VB\\WebAppVB_Tests\\WebAppVB_Tests.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\VB\\WebAppVB_Tests\\WebAppVB_Tests.vbproj",
+        "projectName": "WebAppVB_Tests",
+        "projectPath": "C:\\Dev\\VB\\WebAppVB_Tests\\WebAppVB_Tests.vbproj",
+        "packagesPath": "C:\\Users\\joao.santos\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\VB\\WebAppVB_Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joao.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net481"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net481": {
+            "targetAlias": "net481",
+            "projectReferences": {
+              "C:\\Dev\\VB\\WebAppVB\\WebFormsAlgorithms.vbproj": {
+                "projectPath": "C:\\Dev\\VB\\WebAppVB\\WebFormsAlgorithms.vbproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net481": {
+          "targetAlias": "net481",
+          "dependencies": {
+            "MSTest": {
+              "target": "Package",
+              "version": "[3.6.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.12.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
