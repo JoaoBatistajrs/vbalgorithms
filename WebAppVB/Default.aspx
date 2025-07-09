@@ -6,29 +6,27 @@
         <section class="row" aria-labelledby="aspnetTitle">
             <h1 id="aspnetTitle">About Challenge Solver:</h1>
             <p class="lead">It is a specialized tool to validate code challenges</p>
-            <p><a href="http://www.asp.net" class="btn btn-primary btn-md">Learn more &raquo;</a></p>
         </section>
 
         <div class="row">
             <section class="col-md-4" aria-labelledby="gettingStartedTitle">
-                <h2 id="gettingStartedTitle">Getting started</h2>
-                <p>
-                    ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-                A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
-                </p>
-                <p>
-                    <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
-                </p>
+                <h2 id="gettingStartedTitle">Getting started with Palindrome</h2>
+                    <p>
+                        A palindrome is a word, phrase, number, or other sequence of characters
+                        which reads the same backward as forward. Punctuation and spacing are
+                        typically ignored. Famous examples include "madam," "racecar," or even
+                        phrases like "A man, a plan, a canal: Panama."
+                    </p>
+                    <p>
+                        They are often used in computer science for educational purposes,
+                        particularly when teaching string manipulation, recursion, or algorithms
+                        for reversing sequences.
+                    </p>
+                    <p>
+                        <a class="btn btn-default" href="https://en.wikipedia.org/wiki/Palindrome" target="_blank">Learn more about Palindromes &raquo;</a>
+                    </p>
             </section>
-            <section class="col-md-4" aria-labelledby="librariesTitle">
-                <h2 id="librariesTitle">Get more libraries</h2>
-                <p>
-                    NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
-                </p>
-                <p>
-                    <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
-                </p>
-            </section>
+            
             <section class="col-md-4" aria-labelledby="hostingTitle">
                 <h2 id="hostingTitle">Web Hosting</h2>
                 <p>

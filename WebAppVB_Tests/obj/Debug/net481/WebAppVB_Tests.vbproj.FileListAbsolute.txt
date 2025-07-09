@@ -133,3 +133,4 @@ C:\Dev\VB\WebAppVB_Tests\bin\Debug\net481\pt-br\Microsoft.AspNet.FriendlyUrls.re
 C:\Dev\VB\WebAppVB_Tests\obj\Debug\net481\WebAppVB.8F1847E4.Up2Date
 C:\Dev\VB\WebAppVB_Tests\obj\Debug\net481\WebAppVB_Tests.dll
 C:\Dev\VB\WebAppVB_Tests\obj\Debug\net481\WebAppVB_Tests.pdb
+C:\Dev\VB\WebAppVB_Tests\obj\Debug\net481\WebAppVB_Tests.sourcelink.json

@@ -46,12 +46,10 @@ Public Class TestPalindrome
         ' Arrange
         Dim number1 As Integer = -1
         Dim number2 As Integer = -121
-        Dim number3 As Integer = -123
 
         ' Act & Assert
         Assert.IsTrue(Service.IsPalindrome(number1), "-1 It is a Palindrome.")
         Assert.IsTrue(Service.IsPalindrome(number2), "-121 It is a Palindrome.")
-        Assert.IsTrue(Service.IsPalindrome(number3), "-123 It is a Palindrome.")
     End Sub
 
 End Class

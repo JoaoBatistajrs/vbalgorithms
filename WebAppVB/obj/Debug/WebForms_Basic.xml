@@ -116,5 +116,32 @@ Campo gerado automaticamente.
 Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
 </remarks>
 </member>
+<member name="F:WebFormsAlgorithms.Palindrome._txtNumber">
+<summary>
+txtNumber control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:WebFormsAlgorithms.Palindrome._btnCheckPalindrome">
+<summary>
+btnCheckPalindrome control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:WebFormsAlgorithms.Palindrome._lblResult">
+<summary>
+lblResult control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
 </members>
 </doc>
