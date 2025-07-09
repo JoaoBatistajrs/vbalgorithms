@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("WebAppVB_Tests"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+179acc605f3154f42233cd48b4bfb2536e613646"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("WebAppVB_Tests"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("WebAppVB_Tests"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

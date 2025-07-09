@@ -36,9 +36,9 @@ Public Class TestPalindrome
         Dim number3 As Integer = 10
 
         ' Act & Assert
-        Assert.IsFalse(Service.IsPalindrome(number1), "123 não deveria ser um palíndromo.")
-        Assert.IsFalse(Service.IsPalindrome(number2), "1234 não deveria ser um palíndromo.")
-        Assert.IsFalse(Service.IsPalindrome(number3), "10 não deveria ser um palíndromo.")
+        Assert.IsFalse(Service.IsPalindrome(number1), "123 It is not a Palindrome.")
+        Assert.IsFalse(Service.IsPalindrome(number2), "1234 It is not a Palindrome.")
+        Assert.IsFalse(Service.IsPalindrome(number3), "10 It is not a Palindrome.")
     End Sub
 
     <TestMethod()>
@@ -49,9 +49,9 @@ Public Class TestPalindrome
         Dim number3 As Integer = -123
 
         ' Act & Assert
-        Assert.IsTrue(Service.IsPalindrome(number1), "-1 não deveria ser um palíndromo (como string '-1').")
-        Assert.IsTrue(Service.IsPalindrome(number2), "-121 não deveria ser um palíndromo (como string '-121').")
-        Assert.IsTrue(Service.IsPalindrome(number3), "-123 não deveria ser um palíndromo (como string '-123').")
+        Assert.IsTrue(Service.IsPalindrome(number1), "-1 It is a Palindrome.")
+        Assert.IsTrue(Service.IsPalindrome(number2), "-121 It is a Palindrome.")
+        Assert.IsTrue(Service.IsPalindrome(number3), "-123 It is a Palindrome.")
     End Sub
 
 End Class
