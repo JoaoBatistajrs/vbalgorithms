@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Dev\\VB\\WebAppVB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|WebFormsAlgorithms.vbproj|c:\\dev\\vb\\webappvb\\palindrome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|WebFormsAlgorithms.vbproj|solutionrelative:palindrome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|WebFormsAlgorithms.vbproj|c:\\dev\\vb\\webappvb\\pokerhand.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|WebFormsAlgorithms.vbproj|solutionrelative:pokerhand.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|WebFormsAlgorithms.vbproj|c:\\dev\\vb\\webappvb\\pokerhand.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|WebFormsAlgorithms.vbproj|solutionrelative:pokerhand.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|WebFormsAlgorithms.vbproj|c:\\dev\\vb\\webappvb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|WebFormsAlgorithms.vbproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|WebFormsAlgorithms.vbproj|c:\\dev\\vb\\webappvb\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|WebFormsAlgorithms.vbproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|WebFormsAlgorithms.vbproj|c:\\dev\\vb\\webappvb\\businesslogic\\service.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|WebFormsAlgorithms.vbproj|solutionrelative:businesslogic\\service.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC8EA4D7-BAF9-46E4-9871-97DA2BA75AFB}|..\\WebAppVB_Tests\\WebAppVB_Tests.vbproj|c:\\dev\\vb\\webappvb_tests\\testcarddeck.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
@@ -33,84 +17,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Palindrome.aspx",
-              "DocumentMoniker": "C:\\Dev\\VB\\WebAppVB\\Palindrome.aspx",
-              "RelativeDocumentMoniker": "Palindrome.aspx",
-              "ToolTip": "C:\\Dev\\VB\\WebAppVB\\Palindrome.aspx",
-              "RelativeToolTip": "Palindrome.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-07-10T12:53:43.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Dev\\VB\\WebAppVB\\Default.aspx",
-              "RelativeDocumentMoniker": "Default.aspx",
-              "ToolTip": "C:\\Dev\\VB\\WebAppVB\\Default.aspx",
-              "RelativeToolTip": "Default.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-07-10T12:47:57.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Site.Master",
-              "DocumentMoniker": "C:\\Dev\\VB\\WebAppVB\\Site.Master",
-              "RelativeDocumentMoniker": "Site.Master",
-              "ToolTip": "C:\\Dev\\VB\\WebAppVB\\Site.Master",
-              "RelativeToolTip": "Site.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-07-10T12:36:03.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PokerHand.aspx.vb",
-              "DocumentMoniker": "C:\\Dev\\VB\\WebAppVB\\PokerHand.aspx.vb",
-              "RelativeDocumentMoniker": "PokerHand.aspx.vb",
-              "ToolTip": "C:\\Dev\\VB\\WebAppVB\\PokerHand.aspx.vb",
-              "RelativeToolTip": "PokerHand.aspx.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-10T12:34:10.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PokerHand.aspx",
-              "DocumentMoniker": "C:\\Dev\\VB\\WebAppVB\\PokerHand.aspx",
-              "RelativeDocumentMoniker": "PokerHand.aspx",
-              "ToolTip": "C:\\Dev\\VB\\WebAppVB\\PokerHand.aspx",
-              "RelativeToolTip": "PokerHand.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-07-10T12:33:07.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "TestCardDeck.vb",
               "DocumentMoniker": "C:\\Dev\\VB\\WebAppVB_Tests\\TestCardDeck.vb",
               "RelativeDocumentMoniker": "..\\WebAppVB_Tests\\TestCardDeck.vb",
               "ToolTip": "C:\\Dev\\VB\\WebAppVB_Tests\\TestCardDeck.vb",
               "RelativeToolTip": "..\\WebAppVB_Tests\\TestCardDeck.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-09T19:51:29.566Z",
+              "WhenOpened": "2025-07-10T20:05:16.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service.vb",
+              "DocumentMoniker": "C:\\Dev\\VB\\WebAppVB\\BusinessLogic\\Service.vb",
+              "RelativeDocumentMoniker": "BusinessLogic\\Service.vb",
+              "ToolTip": "C:\\Dev\\VB\\WebAppVB\\BusinessLogic\\Service.vb",
+              "RelativeToolTip": "BusinessLogic\\Service.vb",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwFMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-10T19:53:45.758Z",
               "EditorCaption": ""
             }
           ]
