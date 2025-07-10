@@ -173,6 +173,7 @@
     <Content Include="Content\bootstrap-grid.min.css.map" />
     <Content Include="Content\bootstrap-grid.css.map" />
     <Content Include="Palindrome.aspx" />
+    <Content Include="PokerHand.aspx" />
     <None Include="Scripts\jquery-3.7.0.intellisense.js" />
     <Content Include="Scripts\jquery-3.7.0.js" />
     <Content Include="Scripts\jquery-3.7.0.min.js" />
@@ -263,6 +264,13 @@
     </Compile>
     <Compile Include="Palindrome.aspx.vb">
       <DependentUpon>Palindrome.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="PokerHand.aspx.designer.vb">
+      <DependentUpon>PokerHand.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PokerHand.aspx.vb">
+      <DependentUpon>PokerHand.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
   </ItemGroup>

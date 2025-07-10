@@ -28,13 +28,16 @@
             </section>
             
             <section class="col-md-4" aria-labelledby="hostingTitle">
-                <h2 id="hostingTitle">Web Hosting</h2>
-                <p>
-                    You can easily find a web hosting company that offers the right mix of features and price for your applications.
-                </p>
-                <p>
-                    <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
-                </p>
+                <h2 id="hostingTitle">Getting started with Poker Hand</h2>
+                        <p>
+                            In poker, a "hand" refers to the set of five cards a player holds, or the best five cards that can be made from a combination of a player's hole cards and community cards. The value of a hand is determined by a ranking system, where certain combinations of cards are more valuable than others.
+                        </p>
+                        <p>
+                            Common poker hands include a Pair (two cards of the same rank), Two Pair, Three of a Kind, Straight (five cards in sequence), Flush (five cards of the same suit), Full House (three of a kind and a pair), Four of a Kind, Straight Flush, and the highly coveted Royal Flush.
+                        </p>
+                        <p>
+                            <a class="btn btn-default" href="https://en.wikipedia.org/wiki/List_of_poker_hands" target="_blank">Learn more about Poker Hands &raquo;</a>
+                        </p>
             </section>
         </div>
     </main>

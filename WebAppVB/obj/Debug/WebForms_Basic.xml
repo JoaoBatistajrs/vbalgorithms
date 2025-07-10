@@ -143,5 +143,68 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
+<member name="F:WebFormsAlgorithms.PokerHand._txtCard1">
+<summary>
+txtCard1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:WebFormsAlgorithms.PokerHand._txtCard2">
+<summary>
+txtCard2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:WebFormsAlgorithms.PokerHand._txtCard3">
+<summary>
+txtCard3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:WebFormsAlgorithms.PokerHand._txtCard4">
+<summary>
+txtCard4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:WebFormsAlgorithms.PokerHand._txtCard5">
+<summary>
+txtCard5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:WebFormsAlgorithms.PokerHand._btnEvaluate">
+<summary>
+btnEvaluate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:WebFormsAlgorithms.PokerHand._lblResult">
+<summary>
+lblResult control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
 </members>
 </doc>
