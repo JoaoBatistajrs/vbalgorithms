@@ -3,20 +3,32 @@
 
         Public Shared Function IsPalindrome(ByVal number As Integer) As Boolean
 
-            'Approach 1: Using String Manipulation with LINQ
-
+            'Approach 1: Whitout String Manipulation
             If number < 0 Then
-                Return number * -1
+                Return False
             End If
-            Dim numStr As String = number.ToString()
-            Dim reversedNumStr As String = New String(numStr.Reverse().ToArray())
 
-            'Approach 2: Using StringBuilder, faster for larger strings and avoids LINQ overhead
+            Dim reversedNumber As Integer = 0
+            Dim original As Integer = number
+
+            While number > 0
+                Dim digit As Integer = number Mod 10
+                reversedNumber = reversedNumber * 10 + digit
+                number = number \ 10
+            End While
+
+            Return reversedNumber = original
+
+            'Approach 2: Using String Manipulation with LINQ
+            'Dim numStr As String = number.ToString()
+            'Dim reversedNumStr As String = New String(numStr.Reverse().ToArray())
+
+            'Approach 3: Using StringBuilder, faster for larger strings and avoids LINQ overhead
             'Dim charArray = numStr.ToCharArray()
             'Array.Reverse(charArray)
             'Dim reversedNumStrFromChar As String = New String(charArray)
 
-            Return numStr.Equals(reversedNumStr)
+            'Return numStr.Equals(reversedNumStr)
         End Function
 
         Public Shared Function EvaluatePokerHand(cards As List(Of String)) As String

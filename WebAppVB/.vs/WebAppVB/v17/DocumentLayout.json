@@ -3,11 +3,14 @@
   "WorkspaceRootPath": "C:\\Dev\\VB\\WebAppVB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|WebFormsAlgorithms.vbproj|c:\\dev\\vb\\webappvb\\businesslogic\\service.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|WebFormsAlgorithms.vbproj|C:\\Dev\\VB\\WebAppVB\\businesslogic\\service.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|WebFormsAlgorithms.vbproj|solutionrelative:businesslogic\\service.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC8EA4D7-BAF9-46E4-9871-97DA2BA75AFB}|..\\WebAppVB_Tests\\WebAppVB_Tests.vbproj|c:\\dev\\vb\\webappvb_tests\\testcarddeck.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8EA4D7-BAF9-46E4-9871-97DA2BA75AFB}|..\\WebAppVB_Tests\\WebAppVB_Tests.vbproj|c:\\dev\\vb\\webappvb_tests\\testpalindrome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,8 +20,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestPalindrome.vb",
+              "DocumentMoniker": "C:\\Dev\\VB\\WebAppVB_Tests\\TestPalindrome.vb",
+              "RelativeDocumentMoniker": "..\\WebAppVB_Tests\\TestPalindrome.vb",
+              "ToolTip": "C:\\Dev\\VB\\WebAppVB_Tests\\TestPalindrome.vb",
+              "RelativeToolTip": "..\\WebAppVB_Tests\\TestPalindrome.vb",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-10T21:02:00.952Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -40,7 +56,7 @@
               "RelativeDocumentMoniker": "BusinessLogic\\Service.vb",
               "ToolTip": "C:\\Dev\\VB\\WebAppVB\\BusinessLogic\\Service.vb",
               "RelativeToolTip": "BusinessLogic\\Service.vb",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowBgAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-07-10T19:53:45.758Z",
               "EditorCaption": ""

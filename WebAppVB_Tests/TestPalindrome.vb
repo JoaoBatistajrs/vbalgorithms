@@ -48,8 +48,8 @@ Public Class TestPalindrome
         Dim number2 As Integer = -121
 
         ' Act & Assert
-        Assert.IsTrue(Service.IsPalindrome(number1), "-1 It is a Palindrome.")
-        Assert.IsTrue(Service.IsPalindrome(number2), "-121 It is a Palindrome.")
+        Assert.IsFalse(Service.IsPalindrome(number1), "-1 It is not a Palindrome.")
+        Assert.IsFalse(Service.IsPalindrome(number2), "-121 It is not a Palindrome.")
     End Sub
 
 End Class
